@@ -2,7 +2,7 @@
   "Config": [
     {
       "interval": 2,
-      "backup": "unity",
+      "backup": "applovin",
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
       "addon": true,
@@ -16,9 +16,9 @@
       "admob_native": "ca-app-pub-3044835834543602/4904810268",
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "8e37d3808b58548f",
+      "applovin_inter": "6f9ef7d08272e3fb",
+      "applovin_native": "682004b4eb0d4c67",
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
     }
